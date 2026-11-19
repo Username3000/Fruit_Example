@@ -1,0 +1,164 @@
+3D Shuriken Pack | OpenGameArt.org
+@import url("https://opengameart.org/modules/system/system.base.css?to8ytr");
+@import url("https://opengameart.org/modules/system/system.menus.css?to8ytr");
+@import url("https://opengameart.org/modules/system/system.messages.css?to8ytr");
+@import url("https://opengameart.org/modules/system/system.theme.css?to8ytr");
+@import url("https://opengameart.org/sites/all/modules/comment_notify/comment_notify.css?to8ytr");
+@import url("https://opengameart.org/modules/comment/comment.css?to8ytr");
+@import url("https://opengameart.org/modules/field/theme/field.css?to8ytr");
+@import url("https://opengameart.org/sites/all/modules/logintoboggan/logintoboggan.css?to8ytr");
+@import url("https://opengameart.org/modules/node/node.css?to8ytr");
+@import url("https://opengameart.org/modules/search/search.css?to8ytr");
+@import url("https://opengameart.org/modules/user/user.css?to8ytr");
+@import url("https://opengameart.org/modules/forum/forum.css?to8ytr");
+@import url("https://opengameart.org/sites/all/modules/views/css/views.css?to8ytr");
+@import url("https://opengameart.org/sites/all/modules/ctools/css/ctools.css?to8ytr");
+@import url("https://opengameart.org/sites/all/modules/oga/cctag/cctag.css?to8ytr");
+@import url("https://opengameart.org/sites/all/modules/oga/lightbox/css/jquery.lightbox-0.5.css?to8ytr");
+@import url("https://opengameart.org/sites/all/modules/compact_forms/compact_forms.css?to8ytr");
+@import url("https://opengameart.org/sites/all/modules/ds/layouts/ds_3col_stacked_fluid/ds_3col_stacked_fluid.css?to8ytr");
+@import url("https://opengameart.org/sites/all/modules/ds/layouts/ds_2col_stacked/ds_2col_stacked.css?to8ytr");
+@import url("https://opengameart.org/sites/all/themes/oga/oga_theme.css?to8ytr");
+@import url("https://opengameart.org/sites/all/themes/oga/oga_no_side_bar/oga_theme_no_side_bar.css?to8ytr");
+<!--//--><![CDATA[//><!--
+var lightbox_path="/sites/all/modules/oga/lightbox";jQuery(document).ready(function () { jQuery("a.preview-lightbox").lightBox(); });
+//--><!]]>
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie":0,"ajaxPageState":{"theme":"oga_theme_no_side_bar","theme_token":"bN7oD2pqV1eVgKESfXDOdAkPmoHiow1Yt1e5_cUAHm4","js":{"misc\/jquery.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"misc\/jquery.cookie.js":1,"misc\/form-single-submit.js":1,"sites\/all\/modules\/entityreference\/js\/entityreference.js":1,"sites\/all\/modules\/authcache\/authcache.js":1,"sites\/all\/modules\/oga\/lightbox\/js\/jquery.lightbox-0.5.js":1,"0":1,"sites\/all\/modules\/compact_forms\/compact_forms.js":1,"sites\/all\/modules\/oga\/ajax_dlcount\/ajax_dlcount.js":1,"sites\/all\/themes\/oga\/oga_theme.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/modules\/comment_notify\/comment_notify.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/logintoboggan\/logintoboggan.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"modules\/forum\/forum.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/oga\/cctag\/cctag.css":1,"sites\/all\/modules\/oga\/lightbox\/css\/jquery.lightbox-0.5.css":1,"sites\/all\/modules\/compact_forms\/compact_forms.css":1,"sites\/all\/modules\/ds\/layouts\/ds_3col_stacked_fluid\/ds_3col_stacked_fluid.css":1,"sites\/all\/modules\/ds\/layouts\/ds_2col_stacked\/ds_2col_stacked.css":1,"sites\/all\/themes\/oga\/oga_theme.css":1,"sites\/all\/themes\/oga\/oga_no_side_bar\/oga_theme_no_side_bar.css":1}},"authcache":{"q":"node\/80904","cp":{"path":"\/","domain":".opengameart.org","secure":true},"cl":23.148148148148},"compactForms":{"forms":["user-login-form"],"stars":2},"urlIsAjaxTrusted":{"\/art-search":true,"\/content\/3d-shuriken-pack?destination=node\/80904":true}});
+//--><!]]>
+Skip to main content
+node_art_form_group_author_information {
+  display: block !important;
+}
+User login
+Username or e-mail
+*
+Password
+*
+Create new account
+Request new password
+Register
+Home
+Browse
+2D Art
+3D Art
+Concept Art
+Textures
+Music
+Sound Effects
+Documents
+Featured Tutorials
+Submit Art
+Collect
+My Collections
+Art Collections
+Forums
+FAQ
+Leaderboards
+All Time
+Total Points
+Comments
+Favorites (All)
+Favorites (2D)
+Favorites (3D)
+Favorites (Concept Art)
+Favorites (Music)
+Favorites (Sound)
+Favorites (Textures)
+Weekly
+Total Points
+Comments
+Favorites (All)
+Favorites (2D)
+Favorites (3D)
+Favorites (Concept Art)
+Favorites (Music)
+Favorites (Sound)
+Favorites (Textures)
+❤ Donate
+Search
+3D Shuriken Pack
+Author:
+mehrasaur
+Monday, January 29, 2018 - 04:12
+Art Type:
+3D Art
+Tags:
+weapon
+ninja
+ninjutsu
+shuriken
+shaken
+kunai
+License(s):
+CC0
+Collections:
+3D Assets (CC0)
+CC0 - 3D Weapons
+CC0 ASSETS 3D LOW POLY
+CC0 Weapons
+CCO 3D Weapons
+Collectibles & Weapons
+Legend of Rathnor Parts
+Low Poly Weapons
+Truly Truly Public Domain
+Favorites:
+12
+Preview:
+3D low-poly shuriken clay-models (flat mat).
+Includes:
+.blend files
+.obj files (and .mtl)
+.fbx files
+Assets Catalog:
+2x aiming-boards
+4x bo-shuriken
+4x kunai
+22x shuriken
+1x batarang
+File(s):
+shuriken_pack-v2.zip
+4.5 Mb
+[
+200
+download(s)]
+Log in
+or
+register
+to post comments
+Comments
+Snabisch
+joined 12 years 2 months ago
+02/01/2018 - 06:18
+When I was little I loved these stars.
+Log in
+or
+register
+to post comments
+Umplix
+joined 5 years 5 days ago
+03/22/2022 - 16:40
+Is having a batarang (from BATMAN), going against the "no fan-made art" rule?
+Log in
+or
+register
+to post comments
+MedicineStorm
+joined 14 years 2 months ago
+03/22/2022 - 17:37
+Good question. I'll look into the trademark status of that. Probably not though, since it isn't a recognizable trademarked
+character.
+Log in
+or
+register
+to post comments
+MedicineStorm
+joined 14 years 2 months ago
+03/23/2022 - 11:48
+Well, I'll be damned.
+https://trademarks.justia.com/786/74/batarang-78674328.html
+Questionable content removed.
+Log in
+or
+register
+to post comments

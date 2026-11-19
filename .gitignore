@@ -1,0 +1,53 @@
+# Unreal-generated files
+/Binaries/
+/DerivedDataCache/
+/Intermediate/
+/Saved/
+/Build/
+/PackagedBuilds/
+/Plugins/**/Binaries/
+/Plugins/**/Intermediate/
+/Content/Developers/
+
+# IDE and workstation settings
+/.vs/
+/.idea/
+/.vscode/
+/.codex/*
+!/.codex/config.example.toml
+*.sln
+*.suo
+*.sdf
+*.opensdf
+*.VC.db
+*.VC.opendb
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.code-workspace
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Python environments and generated caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+
+# Local credentials
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.pfx
+*.p12
+
+# Editor and DCC temporary files
+*.tmp
+*.bak
+*.blend1
+*.blend2

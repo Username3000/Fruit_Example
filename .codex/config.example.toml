@@ -1,0 +1,12 @@
+# Copy to config.toml and replace the project and engine paths.
+# config.toml is local and is excluded from Git.
+[mcp_servers.unreal_fruit]
+command = 'C:\path\to\Fruit_Example\Tools\UnrealMCP\.venv\Scripts\python.exe'
+args = ['C:\path\to\Fruit_Example\Tools\UnrealMCP\server.py']
+cwd = 'C:\path\to\Fruit_Example'
+startup_timeout_sec = 30
+tool_timeout_sec = 120
+
+[mcp_servers.unreal_fruit.env]
+UNREAL_ENGINE_ROOT = 'C:\Program Files\Epic Games\UE_5.8'
+PYTHONUTF8 = "1"
