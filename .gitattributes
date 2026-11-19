@@ -1,5 +1,8 @@
 # Keep text portable and Unreal/source binaries in Git LFS.
 * text=auto eol=lf
+# Unreal Editor on Windows writes INI files with CRLF. Both platforms read them.
+# Git still stores normalized LF in the repository.
+*.ini text eol=crlf
 *.bat text eol=crlf
 *.cmd text eol=crlf
 *.ps1 text eol=crlf
